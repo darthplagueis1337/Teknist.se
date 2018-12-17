@@ -1,0 +1,22 @@
+.teknik{
+	background-color: #336699;
+
+}
+.black{
+    color: black !important;
+    font-size: 25px;
+    font-weight: bold;
+}
+.p{
+	color: black !important;
+	font-size: 15px;
+	font-weight: bold;
+}
+.pbullet{
+	color: black !important;
+	font-size: 25px;
+	font-weight: bold;
+}
+.m{
+	margin-top: 0px;
+}
